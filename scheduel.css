@@ -1,0 +1,25 @@
+/*
+* Anna Getty
+* October 5, 2018
+* Scheduel
+*/
+
+/* The universal selector */
+
+* { 
+
+} 
+
+/* Body attributes here */
+
+body { 
+    background-color:lightcoral;
+
+} 
+table, td, th { border: 1.5px solid black; }
+
+table { border-collapse: collapse; }
+
+
+thead { background-color: lightblue; }
+tfoot { background-color: lightblue; }
